@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kickstarter</string>
+    <string name="search">Search By Name</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="endTime">EndTime</string>
+    <string name="type">Type</string>
+    <string name="Currency">Currency</string>
+    <string name="state">State</string>
+    <string name="Location">Location</string>
+    <string name="Percentage">Percentage</string>
+    <string name="Bancker">Banker</string>
+    <string name="Pledges">pledges</string>
+    <string name="by">By</string>
+    <string name="Description">Description</string>
+    <string name="Title">Title</string>
+    <string name="Image">Image</string>
+    <string name="sort_by_time">Sort by Time</string>
+    <string name="sort_by_alphabet">Sort By Alphabet</string>
+    <string name="url">URL</string>
+</resources>
